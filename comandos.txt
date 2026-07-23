@@ -12,3 +12,4 @@ git checkout - Esse comando permite alternar entre ramificações e restaurar ar
 git clone - Esse comando cria uma cópia de um repositório remoto em seu computador local
 git branch - esse comando serve para gerenciar ramificações em seu repositório Git
 git branch "nome" - esse comando serve para criar uma ramificação nova no repositório Git
+git branch -d ou --delete - esse comando serve para deletar uma ramificação do repositório Git
