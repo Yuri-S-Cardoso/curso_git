@@ -10,3 +10,5 @@ git pull - Esse comando obtém e integra as alterações de um repositório remo
 git reset --hard origin/main  - Esse comando serve para desfazer alterações e manipular o histórico de commits
 git checkout - Esse comando permite alternar entre ramificações e restaurar arquivos de diferentes commits
 git clone - Esse comando cria uma cópia de um repositório remoto em seu computador local
+git branch - esse comando serve para gerenciar ramificações em seu repositório Git
+git branch "nome" - esse comando serve para criar uma ramificação nova no repositório Git
