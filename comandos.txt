@@ -1,0 +1,12 @@
+git init - Esse comando inicia um novo repositório Git em um diretório
+git add - Esse comando é usado para preparar alterações em arquivos, preparando-os para o próximo commit
+git commit -a -m "texto da mensagem" - esse comando para criar uma mensagem de commit para as alterações, tornando-as parte do histórico do seu projeto
+git status - Esse comando exibe informações importantes sobre as modificações e o status de preparação de seus arquivos
+git log -  permite visualizar uma lista cronológica do histórico de commits
+git rmm - Esse comando remove arquivos do seu diretório de trabalho e prepara a remoção para o próximo commit
+git mv arquivo1.txt arquivo2.txt ou arquivo1.txt nova_pasta/arquivo1.txt - esse comando para renomear e mover arquivos em seu diretório de trabalho
+git push - Esse comando envia os commits do branch local do Git para um repositório remoto, atualizando-o com suas alterações mais recentes
+git pull - Esse comando obtém e integra as alterações de um repositório remoto em seu branch local atual
+git reset --hard origin/main  - Esse comando serve para desfazer alterações e manipular o histórico de commits
+git checkout - Esse comando permite alternar entre ramificações e restaurar arquivos de diferentes commits
+git clone - Esse comando cria uma cópia de um repositório remoto em seu computador local
