@@ -15,3 +15,4 @@ git branch "nome" - esse comando serve para criar uma ramificação nova no repo
 git branch -d ou --delete "nome" - esse comando serve para deletar uma ramificação no repositório Git
 git checkout -b "nome" - esse comando serve para mudar e criar uma ramificação no repositório git
 git checkout "nome" - esse comando serve para mudar de branch no  repositório git
+git merge "nome" - esse comando serve para unir uma ramificação branch junto a main
