@@ -16,3 +16,6 @@ git branch -d ou --delete "nome" - esse comando serve para deletar uma ramifica�
 git checkout -b "nome" - esse comando serve para mudar e criar uma ramificação no repositório git
 git checkout "nome" - esse comando serve para mudar de branch no  repositório git
 git merge "nome" - esse comando serve para unir uma ramificação branch junto a main
+git stash - esse comando serve para desfazer toda operação desde o último commit e fica armazenado em list
+git stash list - esse comando serve para exibir as stach que foram criadas
+git stach apply "número" - esse comando serve para recuperar a stach armazenada
