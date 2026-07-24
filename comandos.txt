@@ -19,3 +19,10 @@ git merge "nome" - esse comando serve para unir uma ramificação branch junto a
 git stash - esse comando serve para desfazer toda operação desde o último commit e fica armazenado em list
 git stash list - esse comando serve para exibir as stach que foram criadas
 git stach apply "número" - esse comando serve para recuperar a stach armazenada
+git stach show -p "número" - esse comando serve para ver as alterações de cada stach
+git stach clear - esse comando serve para remover todas as stach armazenada
+git stach drop "nome" - esse comando serve para remover apenas a stach selecionada
+git tag -a "nome" -m "mensagem" - esse comando serve como checkpoint de um branch
+git show "nome da tag" - esse comando serve para ver o detalhe da versão da tag
+git push origin "nome da tag" - esse comando serve para enviar uma tag em específico
+git push origin --tags - esse comando serve para enviar todas as tag do branch
